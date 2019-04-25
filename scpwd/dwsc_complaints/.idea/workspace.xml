@@ -1,0 +1,678 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="178b3ce5-7492-40bf-905c-519e5d56a5a6" name="Default" comment="" />
+    <ignored path="dwsc_new.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="dwsc_new" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/include/constants.php" />
+        <option value="$PROJECT_DIR$/otp.php" />
+        <option value="$PROJECT_DIR$/form1_view/index.php" />
+        <option value="$PROJECT_DIR$/form2_view/index.php" />
+        <option value="$PROJECT_DIR$/form1_view/process.php" />
+        <option value="$PROJECT_DIR$/form1_view/process1.php" />
+        <option value="$PROJECT_DIR$/form2_view/process.php" />
+        <option value="$PROJECT_DIR$/form2_view/process1.php" />
+        <option value="$PROJECT_DIR$/subsidy_pwd_view/index.php" />
+        <option value="$PROJECT_DIR$/subsidy_pwd_view/process.php" />
+        <option value="$PROJECT_DIR$/subsidy_pwd_view/process1.php" />
+        <option value="$PROJECT_DIR$/form5_view/index.php" />
+        <option value="$PROJECT_DIR$/form5_view/process1.php" />
+        <option value="$PROJECT_DIR$/form5_view/process.php" />
+        <option value="$PROJECT_DIR$/reasons.php" />
+        <option value="$PROJECT_DIR$/public/index2.php" />
+        <option value="$PROJECT_DIR$/ajax.php" />
+        <option value="$PROJECT_DIR$/public/process1.php" />
+        <option value="$PROJECT_DIR$/public/process3.php" />
+        <option value="$PROJECT_DIR$/public/process5.php" />
+        <option value="$PROJECT_DIR$/public/process2.php" />
+        <option value="$PROJECT_DIR$/form1/process.php" />
+        <option value="$PROJECT_DIR$/form2/process.php" />
+        <option value="$PROJECT_DIR$/subsidy_pwd/process.php" />
+        <option value="$PROJECT_DIR$/form5/process.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="y" value="2" />
+    <option name="width" value="1292" />
+    <option name="height" value="685" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane />
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="178b3ce5-7492-40bf-905c-519e5d56a5a6" name="Default" comment="" />
+      <created>1532585151505</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1532585151505</updated>
+      <workItem from="1532585153796" duration="3272000" />
+      <workItem from="1532588535756" duration="19152000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="22424000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="2" width="1292" height="685" extended-state="1" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3181818" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ajax.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10872">
+          <caret line="453" column="8" selection-start-line="453" selection-start-column="8" selection-end-line="453" selection-end-column="8" />
+          <folding>
+            <marker date="1532610993166" expanded="true" signature="2385:2439" placeholder="select * fro... form1" />
+            <marker date="1532610993166" expanded="true" signature="2883:2937" placeholder="select * fro... form2" />
+            <marker date="1532610993166" expanded="true" signature="12905:12968" placeholder="select statu... form1" />
+            <marker date="1532610993166" expanded="true" signature="16522:16609" placeholder="select statu... form2" />
+            <marker date="1532610993166" expanded="true" signature="20754:20823" placeholder="select statu... subsidy_pwd" />
+            <marker date="1532610993166" expanded="true" signature="25192:25259" placeholder="select statu... form5" />
+            <marker date="1532610993166" expanded="true" signature="33619:33667" placeholder="select * fro... form1" />
+            <marker date="1532610993166" expanded="true" signature="36827:36875" placeholder="select * fro... form2" />
+            <marker date="1532610993166" expanded="true" signature="39959:40013" placeholder="select * fro... subsidy_pwd" />
+            <marker date="1532610993166" expanded="true" signature="43093:43141" placeholder="select * fro... form5" />
+            <marker date="1532610993166" expanded="true" signature="50819:50919" placeholder="update form1... " />
+            <marker date="1532610993166" expanded="true" signature="51002:51102" placeholder="update form2... " />
+            <marker date="1532610993166" expanded="true" signature="51186:51292" placeholder="update subsi... " />
+            <marker date="1532610993166" expanded="true" signature="51376:51476" placeholder="update form5... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/otp.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#sendsms#0;n#!!top" expanded="false" />
+            <marker date="1532596710304" expanded="true" signature="1447:1512" placeholder="..." />
+            <marker date="1532596710304" expanded="true" signature="2971:2986" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/form1/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="52" column="14" selection-start-line="52" selection-start-column="14" selection-end-line="52" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/form1/process1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1532421110000" expanded="true" signature="177:259" placeholder="select uid,d... global_districts" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../srkr2/results/process.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="591" column="29" selection-start-line="591" selection-start-column="21" selection-end-line="591" selection-end-column="29" />
+          <folding>
+            <marker date="1519368300204" expanded="true" signature="1363:1426" placeholder="SELECT * FRO... exam_results" />
+            <marker date="1519368300204" expanded="true" signature="7365:7392" placeholder="SELECT * fro... global_stream" />
+            <marker date="1519368300204" expanded="true" signature="8231:8283" placeholder="SELECT patte... branch_subjects" />
+            <marker date="1519368300204" expanded="true" signature="9284:9330" placeholder="SELECT year " />
+            <marker date="1519368300204" expanded="true" signature="10174:10218" placeholder="SELECT sem F... branch_subjects" />
+            <marker date="1519368300204" expanded="true" signature="12548:13438" placeholder="insert into exam_results... " />
+            <marker date="1519368300204" expanded="true" signature="14239:14297" placeholder="delete from " />
+            <marker date="1519368300204" expanded="true" signature="14366:14404" placeholder="select max(i... exam_results" />
+            <marker date="1519368300204" expanded="true" signature="16896:17354" placeholder="insert into exam_results1... " />
+            <marker date="1519368300204" expanded="true" signature="18448:18514" placeholder="DELETE FROM " />
+            <marker date="1519368300204" expanded="true" signature="19356:19419" placeholder="SELECT * FRO... ${$tableName}" />
+            <marker date="1519368300204" expanded="true" signature="19519:19596" placeholder="SELECT * FRO... ${$tableName}" />
+            <marker date="1519368300204" expanded="true" signature="21891:21994" placeholder="UPDATE exam_... " />
+            <marker date="1519368300204" expanded="true" signature="22060:22153" placeholder="UPDATE exam_... " />
+            <marker date="1519368300204" expanded="true" signature="22191:22267" placeholder="select * fro... exam_results1" />
+            <marker date="1519368300204" expanded="true" signature="23233:23291" placeholder="SELECT * FRO... ${$table}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../srkr2/include/constants.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="110" column="0" selection-start-line="110" selection-start-column="0" selection-end-line="110" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/constants.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="30" column="28" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
+          <folding>
+            <element signature="e#6#270#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/form2_view/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="92" column="36" selection-start-line="92" selection-start-column="36" selection-end-line="92" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/form2_view/process.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="620" column="29" selection-start-line="620" selection-start-column="29" selection-end-line="620" selection-end-column="29" />
+          <folding>
+            <marker date="1532603685306" expanded="true" signature="1682:1740" placeholder="SELECT * FRO... form2" />
+            <marker date="1532603685306" expanded="true" signature="2250:2282" placeholder="SELECT * FRO... global_districts" />
+            <marker date="1532603685306" expanded="true" signature="20231:21061" placeholder="UPDATE `form... " />
+            <marker date="1532603685306" expanded="true" signature="22217:22885" placeholder="INSERT INTO `form2`... " />
+            <marker date="1532603685306" expanded="true" signature="23355:23408" placeholder="DELETE FROM " />
+            <marker date="1532603685306" expanded="true" signature="23762:23825" placeholder="update form2... " />
+            <marker date="1532603685306" expanded="true" signature="24197:24271" placeholder="update form2... " />
+            <marker date="1532603685306" expanded="true" signature="24298:24412" placeholder="Insert into rejected_applications... " />
+            <marker date="1532603685306" expanded="true" signature="24785:24847" placeholder="update form2... " />
+            <marker date="1532603685306" expanded="true" signature="25219:25298" placeholder="update form2... " />
+            <marker date="1532603685306" expanded="true" signature="26128:26203" placeholder="select emplo... users" />
+            <marker date="1532603685306" expanded="true" signature="26614:26670" placeholder="SELECT * FRO... ${$tableName}" />
+            <marker date="1532603685306" expanded="true" signature="26770:26840" placeholder="SELECT * FRO... ${$tableName}" />
+            <marker date="1532603685306" expanded="true" signature="28127:28206" placeholder="select uid,d... global_districts" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/form2_view/process1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="449" column="16" selection-start-line="449" selection-start-column="16" selection-end-line="449" selection-end-column="16" />
+          <folding>
+            <element signature="e#18333#18353#0#HTML" expanded="true" />
+            <marker date="1532603938377" expanded="true" signature="232:285" placeholder="select * fro... form2" />
+            <marker date="1532603938377" expanded="true" signature="370:455" placeholder="select uid,d... global_districts" />
+            <marker date="1532603938377" expanded="true" signature="15948:16028" placeholder="select rdo_c... subsidy_comments" />
+            <marker date="1532603938377" expanded="true" signature="16437:16549" placeholder="select reaso... rejected_applications" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/subsidy_pwd_view/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="92" column="36" selection-start-line="92" selection-start-column="36" selection-end-line="92" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/subsidy_pwd_view/process.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="1451" column="40" selection-start-line="1451" selection-start-column="34" selection-end-line="1451" selection-end-column="40" />
+          <folding>
+            <marker date="1532604428827" expanded="true" signature="1682:1746" placeholder="SELECT * FRO... subsidy_pwd" />
+            <marker date="1532604428827" expanded="true" signature="2256:2288" placeholder="SELECT * FRO... global_districts" />
+            <marker date="1532604428827" expanded="true" signature="47815:49218" placeholder="UPDATE `subs... " />
+            <marker date="1532604428827" expanded="true" signature="50434:51579" placeholder="INSERT INTO `subsidy_pwd`... " />
+            <marker date="1532604428827" expanded="true" signature="52057:52116" placeholder="DELETE FROM " />
+            <marker date="1532604428827" expanded="true" signature="52480:52549" placeholder="update subsi... " />
+            <marker date="1532604428827" expanded="true" signature="52922:53002" placeholder="update subsi... " />
+            <marker date="1532604428827" expanded="true" signature="53029:53143" placeholder="Insert into rejected_applications... " />
+            <marker date="1532604428827" expanded="true" signature="53689:53757" placeholder="update subsi... " />
+            <marker date="1532604428827" expanded="true" signature="54138:54223" placeholder="update subsi... " />
+            <marker date="1532604428827" expanded="true" signature="55074:55149" placeholder="select emplo... users" />
+            <marker date="1532604428827" expanded="true" signature="55566:55622" placeholder="SELECT * FRO... ${$tableName}" />
+            <marker date="1532604428827" expanded="true" signature="55722:55792" placeholder="SELECT * FRO... ${$tableName}" />
+            <marker date="1532604428827" expanded="true" signature="57071:57150" placeholder="select uid,d... global_districts" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/subsidy_pwd_view/process1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="534" column="12" selection-start-line="534" selection-start-column="12" selection-end-line="534" selection-end-column="12" />
+          <folding>
+            <element signature="e#18817#18837#0#HTML" expanded="true" />
+            <marker date="1532604428275" expanded="true" signature="181:239" placeholder="select * fro... subsidy_pwd" />
+            <marker date="1532604428275" expanded="true" signature="317:402" placeholder="select uid,d... global_districts" />
+            <marker date="1532604428275" expanded="true" signature="7336:7407" placeholder="select * fro... work_experience" />
+            <marker date="1532604428275" expanded="true" signature="16585:16671" placeholder="select rdo_c... subsidy_comments" />
+            <marker date="1532604428275" expanded="true" signature="17068:17180" placeholder="select reaso... rejected_applications" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/form5_view/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="92" column="36" selection-start-line="92" selection-start-column="36" selection-end-line="92" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/form5_view/process.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="626" column="4" selection-start-line="626" selection-start-column="4" selection-end-line="626" selection-end-column="4" />
+          <folding>
+            <marker date="1532609604627" expanded="true" signature="1682:1740" placeholder="SELECT * FRO... form5" />
+            <marker date="1532609604627" expanded="true" signature="2250:2282" placeholder="SELECT * FRO... global_districts" />
+            <marker date="1532609604627" expanded="true" signature="20231:21061" placeholder="UPDATE `form... " />
+            <marker date="1532609604627" expanded="true" signature="22217:22885" placeholder="INSERT INTO `form5`... " />
+            <marker date="1532609604627" expanded="true" signature="23357:23410" placeholder="DELETE FROM " />
+            <marker date="1532609604627" expanded="true" signature="23933:23995" placeholder="update form5... " />
+            <marker date="1532609604627" expanded="true" signature="24531:24605" placeholder="update form5... " />
+            <marker date="1532609604627" expanded="true" signature="24632:24746" placeholder="Insert into rejected_applications... " />
+            <marker date="1532609604627" expanded="true" signature="25613:25679" placeholder="select * fro... global_districts" />
+            <marker date="1532609604627" expanded="true" signature="25759:25848" placeholder="update form5... " />
+            <marker date="1532609604627" expanded="true" signature="26893:26968" placeholder="select emplo... users" />
+            <marker date="1532609604627" expanded="true" signature="27351:27407" placeholder="SELECT * FRO... ${$tableName}" />
+            <marker date="1532609604627" expanded="true" signature="27504:27574" placeholder="SELECT * FRO... ${$tableName}" />
+            <marker date="1532609604627" expanded="true" signature="28680:28759" placeholder="select uid,d... global_districts" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/form5_view/process1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="1578" column="292" selection-start-line="1578" selection-start-column="292" selection-end-line="1578" selection-end-column="292" />
+          <folding>
+            <element signature="e#36151#36171#0#HTML" expanded="true" />
+            <element signature="e#36492#36512#0#HTML" expanded="true" />
+            <marker date="1532605231051" expanded="true" signature="231:284" placeholder="select * fro... form5" />
+            <marker date="1532605231051" expanded="true" signature="369:454" placeholder="select uid,d... global_districts" />
+            <marker date="1532605231051" expanded="true" signature="537:620" placeholder="select uid,m... global_mandals" />
+            <marker date="1532605231051" expanded="true" signature="703:793" placeholder="select uid,p... global_panchayats" />
+            <marker date="1532605231051" expanded="true" signature="876:965" placeholder="select uid,d... global_districts" />
+            <marker date="1532605231051" expanded="true" signature="1048:1131" placeholder="select uid,m... global_mandals" />
+            <marker date="1532605231051" expanded="true" signature="1214:1304" placeholder="select uid,p... global_panchayats" />
+            <marker date="1532605231051" expanded="true" signature="30698:30768" placeholder="select * fro... governing_body" />
+            <marker date="1532605231051" expanded="true" signature="35151:35263" placeholder="select reaso... rejected_applications" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/form1_view/process1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="422" column="7" selection-start-line="422" selection-start-column="7" selection-end-line="422" selection-end-column="7" />
+          <folding>
+            <element signature="e#15327#15347#0#HTML" expanded="true" />
+            <marker date="1532603489800" expanded="true" signature="180:233" placeholder="select * fro... form1" />
+            <marker date="1532603489800" expanded="true" signature="318:403" placeholder="select uid,d... global_districts" />
+            <marker date="1532603489800" expanded="true" signature="14002:14091" placeholder="select reaso... rejected_applications" />
+            <marker date="1532603489800" expanded="true" signature="14002:14114" placeholder="select reaso... rejected_applications" />
+            <marker date="1532603489800" expanded="true" signature="14836:15026" placeholder="..." />
+            <marker date="1532603489800" expanded="true" signature="14897:15026" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/form1_view/process.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="632" column="3" selection-start-line="632" selection-start-column="3" selection-end-line="632" selection-end-column="3" />
+          <folding>
+            <marker date="1532603489365" expanded="true" signature="1682:1740" placeholder="SELECT * FRO... form1" />
+            <marker date="1532603489365" expanded="true" signature="2250:2282" placeholder="SELECT * FRO... global_districts" />
+            <marker date="1532603489365" expanded="true" signature="20231:21061" placeholder="UPDATE `form... " />
+            <marker date="1532603489365" expanded="true" signature="22217:22885" placeholder="INSERT INTO `form1`... " />
+            <marker date="1532603489365" expanded="true" signature="23355:23408" placeholder="DELETE FROM " />
+            <marker date="1532603489365" expanded="true" signature="23761:23823" placeholder="update form1... " />
+            <marker date="1532603489365" expanded="true" signature="24175:24237" placeholder="update form1... " />
+            <marker date="1532603489365" expanded="true" signature="24769:24843" placeholder="update form1... " />
+            <marker date="1532603489365" expanded="true" signature="24870:24984" placeholder="Insert into rejected_applications... " />
+            <marker date="1532603489365" expanded="true" signature="24871:24917" placeholder="insert into rejected_applications... " />
+            <marker date="1532603489365" expanded="true" signature="24871:24945" placeholder="insert into rejected_applications... " />
+            <marker date="1532603489365" expanded="true" signature="24871:24972" placeholder="insert into rejected_applications... " />
+            <marker date="1532603489365" expanded="true" signature="24871:24984" placeholder="insert into rejected_applications... " />
+            <marker date="1532603489365" expanded="true" signature="25520:25582" placeholder="update form1... " />
+            <marker date="1532603489365" expanded="true" signature="26395:26470" placeholder="select emplo... users" />
+            <marker date="1532603489365" expanded="true" signature="26856:26912" placeholder="SELECT * FRO... ${$tableName}" />
+            <marker date="1532603489365" expanded="true" signature="27009:27079" placeholder="SELECT * FRO... ${$tableName}" />
+            <marker date="1532603489365" expanded="true" signature="28083:28162" placeholder="select uid,d... global_districts" />
+            <marker date="1532603489365" expanded="true" signature="31194:31233" placeholder="..." />
+            <marker date="1532603489365" expanded="true" signature="31207:31224" placeholder="{...}" />
+            <marker date="1532603489365" expanded="true" signature="31265:31434" placeholder="..." />
+            <marker date="1532603489365" expanded="true" signature="31298:31423" placeholder="{&quot;changeMonth&quot;: true...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/form1_view/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11">
+          <caret line="76" column="22" selection-start-line="76" selection-start-column="22" selection-end-line="76" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reasons.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="40" column="52" selection-start-line="40" selection-start-column="52" selection-end-line="40" selection-end-column="52" />
+          <folding>
+            <element signature="e#1042#1063#0#HTML" expanded="true" />
+            <marker date="1532610042290" expanded="true" signature="729:750" placeholder="select * fro... reasons" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="229" column="52" selection-start-line="229" selection-start-column="45" selection-end-line="229" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/otp.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="67" column="10" selection-start-line="67" selection-start-column="10" selection-end-line="67" selection-end-column="10" />
+          <folding>
+            <element signature="n#sendsms#0;n#!!top" expanded="false" />
+            <marker date="1532596710304" expanded="true" signature="1447:1512" placeholder="..." />
+            <marker date="1532596710304" expanded="true" signature="2971:2986" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="543" column="18" selection-start-line="543" selection-start-column="18" selection-end-line="543" selection-end-column="18" />
+          <folding>
+            <marker date="1532610993166" expanded="true" signature="2385:2439" placeholder="select * fro... form1" />
+            <marker date="1532610993166" expanded="true" signature="2883:2937" placeholder="select * fro... form2" />
+            <marker date="1532610993166" expanded="true" signature="12905:12968" placeholder="select statu... form1" />
+            <marker date="1532610993166" expanded="true" signature="16522:16609" placeholder="select statu... form2" />
+            <marker date="1532610993166" expanded="true" signature="20754:20823" placeholder="select statu... subsidy_pwd" />
+            <marker date="1532610993166" expanded="true" signature="25192:25259" placeholder="select statu... form5" />
+            <marker date="1532610993166" expanded="true" signature="33619:33667" placeholder="select * fro... form1" />
+            <marker date="1532610993166" expanded="true" signature="36827:36875" placeholder="select * fro... form2" />
+            <marker date="1532610993166" expanded="true" signature="39959:40013" placeholder="select * fro... subsidy_pwd" />
+            <marker date="1532610993166" expanded="true" signature="43093:43141" placeholder="select * fro... form5" />
+            <marker date="1532610993166" expanded="true" signature="50819:50919" placeholder="update form1... " />
+            <marker date="1532610993166" expanded="true" signature="51002:51102" placeholder="update form2... " />
+            <marker date="1532610993166" expanded="true" signature="51186:51292" placeholder="update subsi... " />
+            <marker date="1532610993166" expanded="true" signature="51376:51476" placeholder="update form5... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="246" column="0" selection-start-line="246" selection-start-column="0" selection-end-line="246" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/process1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35112">
+          <caret line="1463" column="0" selection-start-line="1463" selection-start-column="0" selection-end-line="1463" selection-end-column="0" />
+          <folding>
+            <marker date="1532611675553" expanded="true" signature="5256:5331" placeholder="SELECT disab... form1" />
+            <marker date="1532611675553" expanded="true" signature="13813:13871" placeholder="SELECT * FRO... form1" />
+            <marker date="1532611675553" expanded="true" signature="14714:14746" placeholder="SELECT * FRO... global_districts" />
+            <marker date="1532611675553" expanded="true" signature="15632:15704" placeholder="SELECT * FRO... global_mandals" />
+            <marker date="1532611675553" expanded="true" signature="16721:16796" placeholder="SELECT * FRO... global_panchayats" />
+            <marker date="1532611675553" expanded="true" signature="22871:22890" placeholder="select * fro... study" />
+            <marker date="1532611675553" expanded="true" signature="29116:29142" placeholder="select * fro... disabilities" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/process3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1657" column="4" selection-start-line="1657" selection-start-column="4" selection-end-line="1657" selection-end-column="4" />
+          <folding>
+            <marker date="1532612002632" expanded="true" signature="7469:7533" placeholder="SELECT * FRO... subsidy_pwd" />
+            <marker date="1532612002632" expanded="true" signature="8551:8583" placeholder="SELECT * FRO... global_districts" />
+            <marker date="1532612002632" expanded="true" signature="9638:9710" placeholder="SELECT * FRO... global_mandals" />
+            <marker date="1532612002632" expanded="true" signature="10690:10765" placeholder="SELECT * FRO... global_panchayats" />
+            <marker date="1532612002632" expanded="true" signature="13915:13941" placeholder="select * fro... disabilities" />
+            <marker date="1532612002632" expanded="true" signature="23728:23747" placeholder="select * fro... study" />
+            <marker date="1532612002632" expanded="true" signature="28395:28447" placeholder="select * fro... work_experience" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/process5.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="2265" column="0" selection-start-line="2265" selection-start-column="0" selection-end-line="2265" selection-end-column="0" />
+          <folding>
+            <marker date="1532612001474" expanded="true" signature="8085:8143" placeholder="SELECT * FRO... form5" />
+            <marker date="1532612001474" expanded="true" signature="9158:9190" placeholder="SELECT * FRO... global_districts" />
+            <marker date="1532612001474" expanded="true" signature="10321:10393" placeholder="SELECT * FRO... global_mandals" />
+            <marker date="1532612001474" expanded="true" signature="11453:11528" placeholder="SELECT * FRO... global_panchayats" />
+            <marker date="1532612001474" expanded="true" signature="21811:21843" placeholder="SELECT * FRO... global_districts" />
+            <marker date="1532612001474" expanded="true" signature="22703:22733" placeholder="SELECT * FRO... global_mandals" />
+            <marker date="1532612001474" expanded="true" signature="23331:23364" placeholder="SELECT * FRO... global_panchayats" />
+            <marker date="1532612001474" expanded="true" signature="71711:71762" placeholder="select * fro... governing_body" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/process2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="1137" column="0" selection-start-line="1137" selection-start-column="0" selection-end-line="1137" selection-end-column="0" />
+          <folding>
+            <marker date="1532612003195" expanded="true" signature="6352:6410" placeholder="SELECT * FRO... form2" />
+            <marker date="1532612003195" expanded="true" signature="8509:8541" placeholder="SELECT * FRO... global_districts" />
+            <marker date="1532612003195" expanded="true" signature="9597:9669" placeholder="SELECT * FRO... global_mandals" />
+            <marker date="1532612003195" expanded="true" signature="10650:10725" placeholder="SELECT * FRO... global_panchayats" />
+            <marker date="1532612003195" expanded="true" signature="34908:34927" placeholder="select * fro... study" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/form1/process.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53">
+          <caret line="1617" column="30" selection-start-line="1617" selection-start-column="30" selection-end-line="1617" selection-end-column="30" />
+          <folding>
+            <marker date="1532612327345" expanded="true" signature="13567:13625" placeholder="SELECT * FRO... form1" />
+            <marker date="1532612327345" expanded="true" signature="14695:14727" placeholder="SELECT * FRO... global_districts" />
+            <marker date="1532612327345" expanded="true" signature="15921:15993" placeholder="SELECT * FRO... global_mandals" />
+            <marker date="1532612327345" expanded="true" signature="17134:17209" placeholder="SELECT * FRO... global_panchayats" />
+            <marker date="1532612327345" expanded="true" signature="23819:23838" placeholder="select * fro... study" />
+            <marker date="1532612327345" expanded="true" signature="30348:30374" placeholder="select * fro... disabilities" />
+            <marker date="1532612327345" expanded="true" signature="69435:71520" placeholder="UPDATE `form... " />
+            <marker date="1532612327345" expanded="true" signature="72999:74596" placeholder="INSERT INTO `form1`... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/form5/process.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="2485" column="0" selection-start-line="2485" selection-start-column="0" selection-end-line="2485" selection-end-column="0" />
+          <folding>
+            <marker date="1532612328004" expanded="true" signature="10190:10248" placeholder="SELECT * FRO... form5" />
+            <marker date="1532612328004" expanded="true" signature="11397:11429" placeholder="SELECT * FRO... global_districts" />
+            <marker date="1532612328004" expanded="true" signature="12636:12708" placeholder="SELECT * FRO... global_mandals" />
+            <marker date="1532612328004" expanded="true" signature="13848:13923" placeholder="SELECT * FRO... global_panchayats" />
+            <marker date="1532612328004" expanded="true" signature="25892:25924" placeholder="SELECT * FRO... global_districts" />
+            <marker date="1532612328004" expanded="true" signature="27159:27189" placeholder="SELECT * FRO... global_mandals" />
+            <marker date="1532612328004" expanded="true" signature="28163:28196" placeholder="SELECT * FRO... global_panchayats" />
+            <marker date="1532612328004" expanded="true" signature="85013:85064" placeholder="select * fro... governing_body" />
+            <marker date="1532612328004" expanded="true" signature="111366:114826" placeholder="UPDATE `form... " />
+            <marker date="1532612328004" expanded="true" signature="114930:114983" placeholder="Delete from " />
+            <marker date="1532612328004" expanded="true" signature="115058:115322" placeholder="INSERT INTO `governing_body`... " />
+            <marker date="1532612328004" expanded="true" signature="115705:118229" placeholder="INSERT INTO `form5`... " />
+            <marker date="1532612328004" expanded="true" signature="118310:118577" placeholder="INSERT INTO `governing_body`... " />
+            <marker date="1532612328004" expanded="true" signature="119072:119104" placeholder="select max(i... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/subsidy_pwd/process.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="1908" column="1" selection-start-line="1908" selection-start-column="1" selection-end-line="1908" selection-end-column="1" />
+          <folding>
+            <marker date="1532612326511" expanded="true" signature="2881:2945" placeholder="SELECT * FRO... subsidy_pwd" />
+            <marker date="1532612326511" expanded="true" signature="4077:4109" placeholder="SELECT * FRO... global_districts" />
+            <marker date="1532612326511" expanded="true" signature="5316:5388" placeholder="SELECT * FRO... global_mandals" />
+            <marker date="1532612326511" expanded="true" signature="6528:6603" placeholder="SELECT * FRO... global_panchayats" />
+            <marker date="1532612326511" expanded="true" signature="10215:10241" placeholder="select * fro... disabilities" />
+            <marker date="1532612326511" expanded="true" signature="20999:21018" placeholder="select * fro... study" />
+            <marker date="1532612326511" expanded="true" signature="26053:26105" placeholder="select * fro... work_experience" />
+            <marker date="1532612326511" expanded="true" signature="77292:79088" placeholder="UPDATE `subs... " />
+            <marker date="1532612326511" expanded="true" signature="79199:79253" placeholder="Delete from " />
+            <marker date="1532612326511" expanded="true" signature="79328:79558" placeholder="INSERT INTO `work_experience`... " />
+            <marker date="1532612326511" expanded="true" signature="79931:81325" placeholder="INSERT INTO `subsidy_pwd`... " />
+            <marker date="1532612326511" expanded="true" signature="81434:81667" placeholder="INSERT INTO `work_experience`... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/form2/process.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="1223" column="0" selection-start-line="1223" selection-start-column="0" selection-end-line="1223" selection-end-column="0" />
+          <folding>
+            <marker date="1532612329178" expanded="true" signature="1833:1891" placeholder="SELECT * FRO... form2" />
+            <marker date="1532612329178" expanded="true" signature="4069:4101" placeholder="SELECT * FRO... global_districts" />
+            <marker date="1532612329178" expanded="true" signature="5332:5404" placeholder="SELECT * FRO... global_mandals" />
+            <marker date="1532612329178" expanded="true" signature="6436:6511" placeholder="SELECT * FRO... global_panchayats" />
+            <marker date="1532612329178" expanded="true" signature="31626:31645" placeholder="select * fro... study" />
+            <marker date="1532612329178" expanded="true" signature="58968:61036" placeholder="UPDATE `form... " />
+            <marker date="1532612329178" expanded="true" signature="61399:63050" placeholder="INSERT INTO `form2`... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

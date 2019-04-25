@@ -1,0 +1,52 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	margin:0;
+	padding:0;
+	color:#000;
+	font-family: "Courier New", Courier, monospace;
+	
+	line-height:16px;
+	font-size:14px;
+
+}
+button{
+	display:none;
+}
+
+#printing{
+	width:440px;
+	font-size:15px;
+	word-spacing:5px;
+	letter-spacing:2px;
+	font-weight:normal;
+	border-bottom:2px dashed #000;
+	
+}
+
+table th{
+	text-align:left;
+}
+
+
+.seperator{
+border-bottom:2px dashed #333;
+margin:4px 0px;
+}
+
+.billNo{
+	letter-spacing:2px;
+}
+#billTotal{
+	margin-top:4px;
+	border-top:1px dashed #999;
+		border-bottom:1px solid #333;
+		font-size:18px;
+	
+}
+
+ .subtotal{
+	display:block;
+	margin:1px;
+	text-align:right;
+}

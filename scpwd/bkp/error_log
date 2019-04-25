@@ -1,0 +1,12 @@
+[23-Oct-2018 10:55:59 America/New_York] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/techxtro/public_html/cct/bkp/acts.php on line 110
+[23-Oct-2018 10:55:59 America/New_York] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/techxtro/public_html/cct/bkp/acts.php on line 110
+[23-Oct-2018 10:55:59 America/New_York] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/techxtro/public_html/cct/bkp/acts.php on line 110
+[23-Oct-2018 10:55:59 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/techxtro/public_html/cct/bkp/acts.php on line 844
+[23-Oct-2018 10:55:59 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/techxtro/public_html/cct/bkp/acts.php on line 844
+[23-Oct-2018 10:55:59 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/techxtro/public_html/cct/bkp/acts.php on line 844
+[23-Oct-2018 10:57:04 America/New_York] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/techxtro/public_html/cct/bkp/acts.php on line 110
+[23-Oct-2018 10:57:04 America/New_York] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/techxtro/public_html/cct/bkp/acts.php on line 110
+[23-Oct-2018 10:57:04 America/New_York] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/techxtro/public_html/cct/bkp/acts.php on line 110
+[23-Oct-2018 10:57:04 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/techxtro/public_html/cct/bkp/acts.php on line 844
+[23-Oct-2018 10:57:04 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/techxtro/public_html/cct/bkp/acts.php on line 844
+[23-Oct-2018 10:57:04 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/techxtro/public_html/cct/bkp/acts.php on line 844
