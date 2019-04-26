@@ -138,12 +138,12 @@ a:hover, a:focus {
  
 <div id="wrapper" class="clearfix">
   <!-- preloader -->
-  <div id="preloader">
+  <!-- <div id="preloader">
     <div id="spinner">
       <img alt="" src="images/preloaders/5.gif">
     </div>
     <div id="disable-preloader" class="btn btn-default btn-sm">Disable Preloader</div>
-  </div>
+  </div> -->
   
   <!-- Header -->
   <?php include "header.php"; ?>
